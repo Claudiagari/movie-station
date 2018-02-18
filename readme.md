@@ -6,12 +6,13 @@
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
-# PROYECTO: MOVIE STATION
-# BAJO EL LEMA: Disfruta como en el cine...
+
+### PROYECTO: MOVIE STATION
+#### BAJO EL LEMA: Disfruta como en el cine...
 
 ![Imágenes](assets/img/logo4.png) 
 
-# NOMBRE DE PARTICIPANTES
+#### NOMBRE DE PARTICIPANTES
 	
 *   Mariela Cerna Peralta: UX-UI  
 
