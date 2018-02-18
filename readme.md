@@ -1,5 +1,5 @@
 # Movie Station
- Es una web que hace un registro de las películas que viste. Accediendo a tu perfil con autenticación con google podras hacer la busqueda y añadir la película a una lista de favoritos.
+ Es una web que hace un registro de las películas que viste. Accediendo a tu perfil con autenticación de google podras hacer la busqueda y añadir la película a una lista de favoritos.
 
 ![movie-station](https://user-images.githubusercontent.com/32285734/36357960-1c2aef4c-14d4-11e8-9b03-58cc0812c5c1.JPG)
 
