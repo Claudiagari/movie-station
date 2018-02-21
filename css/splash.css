@@ -2,33 +2,19 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 .container-img{
-background-image: url('../assets/img/fondomovie.png');
+background-image: url('../assets/img/fondocp.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 height:100vh;
 background-position:center;
 margin-bottom: 0;
 }
-
-/*.container-img{
-  width: 70%;
-  height: 100px;
- 
-  }*/
-
 .rueda{
     width: 20%;
     margin: 3rem;
 }
-
-
-/*
-Animación Rueda
-*/
-
 .rueda {
     animation-name: rueda;
     animation-duration: 2s;

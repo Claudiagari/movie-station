@@ -36,7 +36,10 @@ $(document).ready(function() {
           });
       }
     } else {
-      // sign out
+      $('#searchForm').on('submit', (e) => {
+        swal('Ingresar con Google para buscar');
+        e.preventDefault();
+      });
     }
   });
 });
