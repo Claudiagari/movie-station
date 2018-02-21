@@ -36,9 +36,9 @@ $(document).ready(function() {
           });
       }
     } else {
-      $('#searchForm').on('submit', (e) => {
+      $('#searchForm').on('submit', (event) => {
         swal('Ingresar con Google para buscar');
-        e.preventDefault();
+        event.preventDefault();
       });
     }
   });
